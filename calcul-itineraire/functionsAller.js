@@ -1,0 +1,3 @@
+initializeAller();
+initialize();
+calculate();
